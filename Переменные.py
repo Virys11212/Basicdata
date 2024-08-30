@@ -4,8 +4,8 @@ NODZ = 12
 NOHS = 1.5
 #Course_name
 CN= 'Python'
-time = 45
-speed = 15
+time = 12
+speed = 1.5
 #Time_for_one_task
 TFOT = time / speed
 
