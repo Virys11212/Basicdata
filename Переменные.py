@@ -1,11 +1,12 @@
 
+#Number_of_DZ
 NODZ = 12
 #Number_of_hours_spent
 NOHS = 1.5
 #Course_name
 CN= 'Python'
-time = 12
-speed = 1.5
+time = NOHS
+speed = NODZ
 #Time_for_one_task
 TFOT = time / speed
 
