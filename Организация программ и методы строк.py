@@ -1,0 +1,8 @@
+print('пишите имя с большой буквы.')
+my_string = input('привет, как тебя зову: ')
+print(my_string[0].upper())
+print(my_string[-1].upper())
+print('в верхнем регистре.')
+print(my_string.upper())
+print('в нижнем регистре.')
+print(my_string.lower())
